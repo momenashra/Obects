@@ -1,4 +1,5 @@
-Multimodal Gradio Application
+# Multimodal Gradio Application
+
 ![image](https://github.com/user-attachments/assets/1d7ea183-c510-4d2b-bed7-7f378ee847fa)
 
 A user-friendly Gradio interface combining image analysis and code generation capabilities using state-of-the-art AI models.
