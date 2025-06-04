@@ -34,12 +34,12 @@ python!pip install transformers==4.36.0 gradio==4.8.0 torch torchvision pillow
 
 
 Local Installation
-bashgit clone https://github.com/yourusername/multimodal-gradio-app.git
-cd multimodal-gradio-app
-pip install -r requirements.txt
+bash
+```git clone [https://github.com/momenashra/Obects/]```
 🚀 Usage
 Starting the Application
-pythonpython Objects_Task.py
+python
+```python Objects_Task.py```
 Live Demo
 Try the application on Hugging Face Spaces
 (Note: CPU-based, slower than GPU setup)
